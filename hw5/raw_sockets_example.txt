@@ -1,0 +1,4 @@
+default=0
+protocol=icmp drop=1
+protocol=tcp dst_port=8080 drop=0
+protocol=tcp drop=1
