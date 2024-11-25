@@ -1,0 +1,2 @@
+default=0
+QR=1 name=google.com drop=1
